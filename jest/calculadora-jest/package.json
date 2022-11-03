@@ -1,0 +1,14 @@
+{
+    "name": "calculadora-jest",
+    "version": "1.0.0",
+    "description": "Claculadora básica para utilização de TDD jest",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.2.2"
+    }
+}
